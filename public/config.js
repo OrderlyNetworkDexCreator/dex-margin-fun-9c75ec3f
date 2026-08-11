@@ -1,4 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
+  "VITE_DEPLOYMENT_ENV": "mainnet",
   "VITE_ORDERLY_BROKER_ID": "demo",
   "VITE_ORDERLY_BROKER_NAME": "Margin.Fun",
   "VITE_BROKER_EOA_ADDRESS": "0x78d59453ebe0c6d39d8cd4fbf7a82207dbd1110b",
